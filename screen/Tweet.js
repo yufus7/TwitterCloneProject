@@ -70,8 +70,6 @@ const styles = StyleSheet.create({
     serprator: {
         height: StyleSheet.hairlineWidth,
         backgroundColor: 'black',
-
-        
     },
 })
 

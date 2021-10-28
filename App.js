@@ -7,8 +7,6 @@ import { SafeAreaView, Text, Button } from "react-native";
 import {Ionicons} from '@expo/vector-icons'
 
 
-
-
 const Search = () =>{
   return(
     <SafeAreaView>
